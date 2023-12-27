@@ -2,12 +2,12 @@
 
 ### ✨ Index
 
-##### 01 - Props and Children 
-#####  02 - useEffect, useCallback, useMemo, useRef 
-##### 03 - useReducer Hook
-#####  04 - useContext
-#####  05 - Shopping Cart Project
-###
+- ##### 01 Props and Children 
+- ##### 02 useEffect, useCallback, useMemo, useRef 
+- ##### 03 useReducer Hook
+- ##### 04 useContext
+- ##### 05 Shopping Cart Project
+
  ---
 
 ### ⚙ Free Web Dev Tools
@@ -29,3 +29,5 @@
 - 🔗 [MDN - Dynamic Typing](https://developer.mozilla.org/en-US/docs/Glossary/Dynamic_typing)
 - 🔗 [MDN - Type Coercion](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
 - 🔗 [TypeScript - Type Assertions](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions)
+
+  <p align="center"> Youtube Tutorial by <strong>Dave Gray</strong> </p>
